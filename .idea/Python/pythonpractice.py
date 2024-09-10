@@ -1,4 +1,4 @@
-#practice to add twol numbers
+#practice to add two numbers
 
 num1 = 1.7
 num2 = 5.8
